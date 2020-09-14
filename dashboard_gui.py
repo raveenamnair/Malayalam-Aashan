@@ -1,0 +1,9 @@
+import tkinter as tk
+HEIGHT = 550
+WIDTH = 1000
+DARK_PURPLE = '#790E8B'
+PURPLE = '#AB47BC'
+LIGHT_PINK = '#FFCCCB'
+PINK = '#EF9A9A'
+
+

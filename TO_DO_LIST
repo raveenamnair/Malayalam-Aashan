@@ -1,0 +1,34 @@
+TO DO LIST
+1. Log session time
+2. Make status report
+3. Make 20 question quizzes
+
+Session Report Template
+
+MALAYALAM SCHOOL REPORT
+John Doe
+Joined: 19/08/2020 17:27:57
+Session Count: 0
+Current Module: Test
+Memorized: 4
+Level: Beginner
+
+---------------------------------------------
+Session 1:
+Start time - 19/08/2020 17:27:57
+Module: Vowels
+Module: Vowels Test
+Score = 15/20
+Module: Consonants
+Score = 2/20
+End Time - 19/08/2020 17:27:57
+---------------------------------------------
+
+Learning Vowels
+EX: Module: Learn Vowels
+Reviewing Consonants
+EX: Module: Review Consonants [5/16]  << that number is how many they got right (self assess)
+Practice Quiz
+EX: Module: Practice Quiz [18/20] << score
+Level Up Test
+EX: Test: PASS << PASS or FAIL PASS means you leveled up, FAIL means you did not. need 45/50 to level up
