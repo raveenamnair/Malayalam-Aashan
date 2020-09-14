@@ -1,6 +1,8 @@
 # Malayalam Aashan
 Malayalam Aashan is a Desktop Application written in Python that allows 
-users to learn how to read and write in Malayalam, the language of Kerala, India. 
+users to learn how to read and write in Malayalam, the language of Kerala, India. This application was a way
+for me to personally learn my native tongue so I could improve my reading and writing skills. This is version 1 of my
+desktop application, more features to come soon. 
 
 
 # Walkthrough of Application
