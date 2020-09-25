@@ -28,4 +28,7 @@ tkinter
 
 PIL
 
+To run the application properly, make sure you run the files in this order:
+webscrapping_one.py, webscrapping_two.py, webscrapping_three.py (all of these initialize the database), clean_database.py (to fix an errors that may have occurred while inserting values to database), gui_controller.py (to run GUI application). With these steps, application should run smoothly. Please contact me if you find any issues while handling these actions.
+
 This is version 1 of my desktop application, more features to come soon. 
